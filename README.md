@@ -12,7 +12,7 @@
 ### Clone the repo
 
 ```
-git clone https://github.com/hhhrrrttt222111/TravelApp.git
+git clone https://github.com/gaurav260702/Travel-Booking-Website
 cd TravelApp
 ```
 ### Install Server packages from the root directory
